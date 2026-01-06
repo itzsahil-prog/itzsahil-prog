@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am a passionate and motivated Software Developer currently pursuing a Bachelor of Technology in Computer Science and Engineering (2024–2028) from Maharishi Markandeshwar (Deemed to be) University, Haryana. With a strong interest in building real-world software solutions, I have gained practical experience through multiple technical internships during my early academic years.<br><br>I have hands-on expertise in full-stack web development, particularly using the MERN stack (MongoDB, Express.js, React.js, and Node.js). During my internship as a MERN Stack Developer at Zidio Development, I worked on developing complete web applications, implementing efficient backend logic, and designing and consuming RESTful APIs. This experience helped me understand application architecture, debugging strategies, and collaborative development in a professional environment.<br><br>In addition, I have worked as a Frontend Developer Intern at CodeAlpha, where I focused on creating responsive and user-friendly interfaces using HTML, CSS, and JavaScript. I actively worked on improving UI/UX, ensuring cross-browser compatibility, and translating design concepts into functional web pages. These experiences strengthened my attention to detail and understanding of modern frontend development practices.<br><br>I also have exposure to data analytics, having completed a Data Analyst Internship at VST Infra & Steel Pvt. Ltd. During this role, I analyzed datasets using Pandas and Excel, and built dashboards and reports using Power BI to support business decision-making. This allowed me to develop a data-driven mindset and understand how technology supports strategic insights.<br><br>Beyond internships, I enjoy working on personal and academic projects. Notable projects include a Smart Parking System, designed to optimize parking space utilization using real-time logic, and Mediconnect — a symptom recognition system, which provides users with actionable health recommendations based on rule-based analysis. These projects reflect my interest in solving practical problems through technology.<br><br>I am a continuous learner who actively explores new tools, frameworks, and industry trends. I am eager to apply my skills, contribute to impactful projects, and grow as a software developer in a challenging and collaborative environment.<br>
+
+I am a motivated Software Developer pursuing a B.Tech in Computer Science and Engineering (2024–2028) at Maharishi Markandeshwar (Deemed to be) University, Haryana. I have hands-on experience through multiple technical internships, focused on building real-world software solutions.
+
+I specialize in full-stack web development using MongoDB, Express.js, React.js, Node.js, and Firebase. As a MERN Stack Developer Intern at Zidio Development, I worked on developing complete web applications, implementing backend logic, and building RESTful APIs. I also worked as a Frontend Developer Intern at CodeAlpha, creating responsive and user-friendly interfaces using HTML, CSS, and JavaScript.
+
+Additionally, I gained experience in data analytics during my internship at VST Infra & Steel Pvt. Ltd., where I analyzed data using Pandas and Excel and built dashboards using Power BI.
+
+I enjoy working on projects such as a Smart Parking System and Mediconnect, a symptom recognition system. I am a continuous learner eager to contribute to impactful projects and grow in a collaborative development environment.<br>
 
 
 ## 🌐 Socials:
@@ -14,5 +21,3 @@ I am a passionate and motivated Software Developer currently pursuing a Bachelor
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itzsahil-prog&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
