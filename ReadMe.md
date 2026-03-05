@@ -1,8 +1,3 @@
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 <!-- Animated Typing Intro -->
 <h1 align="center">
   Hi 👋, I'm Sahil
@@ -28,6 +23,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=itzsahil-prog&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=itzsahil-prog&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzsahil-prog&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itzsahil-prog&theme=radical&no-frame=false&no-bg=false&margin-w=4)
