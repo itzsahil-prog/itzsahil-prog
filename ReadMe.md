@@ -1,3 +1,17 @@
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<!-- Animated Typing Intro -->
+<h1 align="center">
+  Hi 👋, I'm Sahil
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Hackathon+Lover;Building+Innovative+Tech+Projects" />
+</p>
+
 # 💫 About Me:
 🎓 B.Tech CSE (2024–2028) at Maharishi Markandeshwar (Deemed to be) University, Haryana<br><br>💡 Motivated Software Developer with hands-on internship experience<br><br>🌐 MERN Stack Developer (MongoDB, Express, React, Node, Firebase)<br><br>🧑‍💼 Interned at Zidio Development (Full-Stack) & CodeAlpha (Frontend)<br><br>📊 Experience in Data Analytics using Pandas, Excel & Power BI<br><br>🚀 Built projects like Smart Parking System & MediConnect<br><br>🌱 Continuous learner eager to build impactful software
 
