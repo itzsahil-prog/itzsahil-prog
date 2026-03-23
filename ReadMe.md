@@ -88,11 +88,11 @@
 ---
 
 # 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/itzsahil-prog/itzsahil-prog/output/github-contribution-grid-snake-dark.svg">
-</p>
 
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+
+</p>
 ---
 
 # 🏆 GitHub Achievements
@@ -114,18 +114,16 @@
 
 # 🌐 AI Portfolio & Dashboard
 
-👉 https://your-portfolio-link.vercel.app  
-
-✔ AI Chatbot Integration (Planned)  
-✔ Admin Dashboard for GitHub Stats  
-✔ Resume Auto Generator  
+👉 https://sites.google.com/view/sahil-developer/main
 
 ---
 
-# 🔁 Automation System
+# ✍️ Developer Quote
 
-```yaml
-Auto Commit: ACTIVE
-Daily Tracker: RUNNING
-Snake Animation: ENABLED
-GitHub Actions: DEPLOYED
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+
+</p>
+
+---
