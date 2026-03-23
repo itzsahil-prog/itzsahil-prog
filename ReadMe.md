@@ -23,10 +23,10 @@
 
 ---
 
-# 🚀 Projects
+# 🚀 Latest Projects 
 
 <!-- PROJECTS_START -->
-<!-- Auto-generated projects will appear here -->
+<!-- Projects will be injected here automatically -->
 <!-- PROJECTS_END -->
 
 ---
