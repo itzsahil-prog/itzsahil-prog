@@ -67,13 +67,6 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 
 </p>
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itzsahil-prog&theme=matrix&no-frame=true&row=1&column=7">
-</p>
 
 ---
 
@@ -119,3 +112,19 @@
 </p>
 
 ---
+
+# 🧠 Engineer Scorecard
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Code%20Quality-Production%20Ready-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/System%20Design-Scalable-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-AI%20Systems-orange?style=for-the-badge">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Backend-Strong-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Frontend-Advanced-informational?style=for-the-badge">
+<img src="https://img.shields.io/badge/Problem%20Solving-Consistent-critical?style=for-the-badge">
+
+</p>
