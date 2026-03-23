@@ -1,19 +1,8 @@
 <!-- 🔥 HERO SECTION -->
-<h1 align="center">⚡ Sahil | AI Full Stack Developer ⚡</h1>
+<h1 align="center">Hi 👋, I'm Sahil</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Systems+Builder;Automation+Expert;Top+0.5%+GitHub+Goal"/>
-</p>
-
----
-
-# 🧠 AI SYSTEM STATUS
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI%20Chatbot-Portfolio%20Ready-00ff00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Admin%20Dashboard-Live-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Auto%20Commits-Running-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Profile-Level-GOD%20MODE-black?style=for-the-badge">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Hackathon+Lover;Building+Innovative+Tech+Projects" />
 </p>
 
 ---
