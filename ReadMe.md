@@ -23,26 +23,11 @@
 
 ---
 
-# 🌐 Connect With Me
-
+# 🌐 AI Portfolio & Dashboard
 <p align="center">
-
-<a href="https://linkedin.com/in/sahil-goyal-6099642bb">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:itsahilg1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
 <a href="https://sites.google.com/view/sahil-developer/main">
-<img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀%20Launch%20Portfolio-000000?style=for-the-badge">
 </a>
-
-<a href="https://drive.google.com/file/d/1wjLc-teZIxfun3UNbrCqjn6bBW_wKo6z/view">
-<img src="https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge">
-</a>
-
 </p>
 
 ---
@@ -101,9 +86,27 @@
 
 ---
 
-# 🌐 AI Portfolio & Dashboard
+# 🌐 Connect With Me
 
-👉 https://sites.google.com/view/sahil-developer/main
+<p align="center">
+
+<a href="https://linkedin.com/in/sahil-goyal-6099642bb">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:itsahilg1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://sites.google.com/view/sahil-developer/main">
+<img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge">
+</a>
+
+<a href="https://drive.google.com/file/d/1wjLc-teZIxfun3UNbrCqjn6bBW_wKo6z/view">
+<img src="https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge">
+</a>
+
+</p>
 
 ---
 
