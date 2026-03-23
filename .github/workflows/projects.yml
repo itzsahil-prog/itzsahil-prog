@@ -1,0 +1,35 @@
+name: Update Projects
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch latest repos
+        run: |
+          curl -s https://api.github.com/users/itzsahil-prog/repos?sort=updated > repos.json
+
+      - name: Generate project list
+        run: |
+          echo "## 🚀 Latest Projects" > PROJECTS.md
+          cat repos.json | jq -r '.[] | "- [" + .name + "](" + .html_url + ")"' | head -n 6 >> PROJECTS.md
+
+      - name: Inject into README
+        run: |
+          awk '/<!-- PROJECTS_START -->/{print;system("cat PROJECTS.md");next}/<!-- PROJECTS_END -->/{flag=0} !flag' README.md > temp.md
+          mv temp.md README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "Sahil"
+          git config --global user.email "you@example.com"
+          git add README.md
+          git commit -m "Updated project list" || echo "No changes"
+          git push
