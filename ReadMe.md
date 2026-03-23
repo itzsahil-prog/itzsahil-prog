@@ -98,11 +98,38 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements & Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=itzsahil-prog&theme=radical&no-frame=true&row=2&column=4">
+<!-- Main Trophy Display -->
+<img src="https://github-profile-trophy.vercel.app/?username=itzsahil-prog&theme=radical&no-frame=true&row=1&column=7&margin-w=10&margin-h=10"/>
+
+</p>
+
+<p align="center">
+
+<!-- Advanced Trophy Filters -->
+<img src="https://github-profile-trophy.vercel.app/?username=itzsahil-prog&theme=tokyonight&no-frame=true&title=Commits,Repositories,Stars,Followers,PullRequest,Issues&row=1&column=6"/>
+
+</p>
+
+<p align="center">
+
+<!-- Compact Premium View -->
+<img src="https://github-profile-trophy.vercel.app/?username=itzsahil-prog&theme=onedark&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+# 🧠 GitHub Achievements Level
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Commits-Active-blue?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=opensourceinitiative">
+<img src="https://img.shields.io/badge/Code-Consistent-orange?style=for-the-badge&logo=codeforces">
+<img src="https://img.shields.io/badge/Focus-High-red?style=for-the-badge&logo=target">
 
 </p>
 
