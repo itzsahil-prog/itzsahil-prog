@@ -19,7 +19,15 @@
 
 🚀 Building Projects: **Amoura & TerrorShield**  
 
-🧠 Focused on Consistency, Growth & Innovation  
+🧠 Focused on Consistency, Growth & Innovation
+
+---
+
+# 🚀 Projects
+
+<!-- PROJECTS_START -->
+<!-- Auto-generated projects will appear here -->
+<!-- PROJECTS_END -->
 
 ---
 
