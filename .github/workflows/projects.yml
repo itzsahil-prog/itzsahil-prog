@@ -1,8 +1,8 @@
-name: Update Projects
+name: Auto Update Projects
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"   # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -10,26 +10,48 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
-      - name: Fetch latest repos
+      - name: Install jq
+        run: sudo apt-get install jq -y
+
+      - name: Fetch Latest Repos
         run: |
-          curl -s https://api.github.com/users/itzsahil-prog/repos?sort=updated > repos.json
+          curl -s "https://api.github.com/users/itzsahil-prog/repos?sort=updated&per_page=100" > repos.json
 
-      - name: Generate project list
+      - name: Generate Projects Section
         run: |
           echo "## 🚀 Latest Projects" > PROJECTS.md
-          cat repos.json | jq -r '.[] | "- [" + .name + "](" + .html_url + ")"' | head -n 6 >> PROJECTS.md
+          echo "" >> PROJECTS.md
 
-      - name: Inject into README
+          cat repos.json | jq -r '
+            .[] 
+            | select(.fork == false) 
+            | "- 🔹 [" + .name + "](" + .html_url + ") - " + (.description // "No description") + " ⭐" + (.stargazers_count|tostring)
+          ' | head -n 6 >> PROJECTS.md
+
+      - name: Update README Section Safely
         run: |
-          awk '/<!-- PROJECTS_START -->/{print;system("cat PROJECTS.md");next}/<!-- PROJECTS_END -->/{flag=0} !flag' README.md > temp.md
+          awk '
+          /<!-- PROJECTS_START -->/ {
+              print;
+              system("cat PROJECTS.md");
+              skip=1;
+              next
+          }
+          /<!-- PROJECTS_END -->/ {
+              skip=0
+          }
+          !skip
+          ' README.md > temp.md
+
           mv temp.md README.md
 
-      - name: Commit changes
+      - name: Commit & Push Changes
         run: |
-          git config --global user.name "Sahil"
-          git config --global user.email "you@example.com"
+          git config --global user.name "Sahil Goyal"
+          git config --global user.email "itsahilg1@gmail.com"
           git add README.md
-          git commit -m "Updated project list" || echo "No changes"
+          git commit -m "🔄 Auto-update latest projects" || echo "No changes"
           git push
