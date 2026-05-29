@@ -28,12 +28,13 @@
 <table align="center">
 <tr>
 <td width="50%">
+  /-------/
 <h3 align="center">🛡️ TerrorShield</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
 <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node.js-blue?style=flat-square">
 </p>
-
+/-------/
 </td>
 </tr>
 </table>
