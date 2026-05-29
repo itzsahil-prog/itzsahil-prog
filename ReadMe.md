@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Hackathon+Lover;Building+Innovative+Tech+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Hackathon+Lover;Building+Scalable+Systems">
 </p>
 
 ---
@@ -25,9 +25,32 @@
 
 # 🚀 Latest Projects 
 
-<!-- PROJECTS_START -->
-<!-- Projects will be injected here automatically -->
-<!-- PROJECTS_END -->
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">🛡️ TerrorShield</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/Tech-React%20%7C%20Node.js-blue?style=flat-square">
+</p>
+<p align="center">AI-powered security system for threat detection and prevention</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/View%20Project-Link-orange?style=flat-square"></a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">💎 Amoura</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/Tech-Next.js%20%7C%20MongoDB-blue?style=flat-square">
+</p>
+<p align="center">Full-stack application with advanced features and scalability</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/View%20Project-Link-orange?style=flat-square"></a>
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
