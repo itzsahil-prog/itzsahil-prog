@@ -1,0 +1,20 @@
+{
+  "name": "itzsahil-prog-profile",
+  "version": "1.0.0",
+  "description": "Automated GitHub profile with latest projects and visitor stats",
+  "main": "index.js",
+  "scripts": {
+    "update-projects": "node scripts/update-projects.js",
+    "update-stats": "node scripts/update-visitor-stats.js",
+    "update-all": "npm run update-projects && npm run update-stats"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "automation",
+    "projects"
+  ],
+  "author": "Sahil",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
