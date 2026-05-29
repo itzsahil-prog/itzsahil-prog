@@ -53,13 +53,9 @@ _Projects will be automatically updated every 6 hours_
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itzsahil-prog&show_icons=true&theme=chartreuse-dark&hide_border=true" height="180">
 <img src="https://streak-stats.demolab.com?user=itzsahil-prog&theme=chartreuse-dark&hide_border=true" height="180">
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsahil-prog&layout=compact&theme=chartreuse-dark&hide_border=true">
-</p>
 
 ---
 
