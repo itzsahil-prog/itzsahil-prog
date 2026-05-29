@@ -33,21 +33,7 @@
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
 <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node.js-blue?style=flat-square">
 </p>
-<p align="center">AI-powered security system for threat detection and prevention</p>
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/View%20Project-Link-orange?style=flat-square"></a>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">💎 Amoura</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
-<img src="https://img.shields.io/badge/Tech-Next.js%20%7C%20MongoDB-blue?style=flat-square">
-</p>
-<p align="center">Full-stack application with advanced features and scalability</p>
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/View%20Project-Link-orange?style=flat-square"></a>
-</p>
+
 </td>
 </tr>
 </table>
